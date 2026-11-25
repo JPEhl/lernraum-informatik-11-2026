@@ -1,21 +1,12 @@
 {
  "kurs": "i11s26",
  "titel": "Informatik 11",
- "nr": 1,
+ "nr": 2,
  "datum": "2026-11-25",
  "aenderungen": [
-  "Erste Fassung des Lernraums Informatik 11.",
-  "Drei Kapitel: „Wie eine Nachricht ankommt“, „Der verlorene Koffer“ und „Ein Spiel aus Text“. Zum Weiterlernen dazu „Geheime Nachrichten“ und „Dein Spiel, weitergebaut“.",
-  "Jedes Thema hat Vortrag, Erklärung und Übung. Die Lösung öffnet das Kennwort, das dir dein Lehrer sagt.",
-  "In der Übung sagt dir der Selbstcheck, was schon passt und woran es noch hängt. Jede Aufgabe hat Stufen mit Sternen – du wählst, wie schwer.",
-  "Unter „Üben und Nachschlagen“: Glossar, Lernkarten, „Ich kann …“ und dein Fehlerbuch.",
-  "Am Ende jeder Übung „Abgabe erzeugen“ – die ZIP lädst du im Schulportal hoch.",
-  "Zahnrad oben rechts: „Stand mitnehmen“ und „Stand hereinnehmen“, wenn du zwischen Schule und Zuhause wechselst.",
-  "„Anmerkung“ oben: Stellen markieren, die du nicht verstehst, Fehler oder Ideen – sie gehen mit deiner Abgabe an deinen Lehrer.",
-  "„Beenden“ oben rechts: Erst danach den USB-Stick abziehen.",
-  "Neue Fassungen holst du unten auf der Kursseite: „Nach neuer Fassung suchen“. Dein Stand und deine Programme bleiben, wie sie sind."
+  "Kleine Verbesserungen im Hintergrund. Für dich ändert sich nichts: dein Stand und deine Programme bleiben, wie sie sind."
  ],
  "zip": "Lernraum Informatik 11.zip",
- "sha256": "8a1c8daa9a18705014fca9d97227047c0ccad921c5bffffa0bad5e4bd7589f94",
- "groesse": 4231721
+ "sha256": "7a39e53183b92cfd4c3ef4efe7564b9aa4dda5e64f21dd6ecaceb5650cc03bef",
+ "groesse": 4241671
 }
